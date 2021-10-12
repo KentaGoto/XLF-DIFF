@@ -1,1 +1,7 @@
-"# XLF-DIFF" 
+# XLF-DIFF
+
+# Author
+Kenta Goto
+
+# License
+MIT
