@@ -1,7 +1,7 @@
 # XLF-DIFF
 
 ## Overview
-in preparation...
+Compare the xliffs before and after the translation.  
 
 ## License
 MIT
