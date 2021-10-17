@@ -8,6 +8,9 @@ Compare the xliffs before and after the translation.
 - PHP7
 - Python3
 - Apache
+- 7zip
+- saxon
+- Excel
 
 
 ## License
